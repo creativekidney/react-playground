@@ -4,5 +4,10 @@
   "description": "just a sandbox for messing with React, Redux and the rest of the stack",
   "main": "index.js",
   "author": "Luke Kidney",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "moment": "^2.15.2",
+    "webpack": "2.1.0-beta.25",
+    "webpack-dev-server": "2.1.0-beta.9"
+  }
 }
