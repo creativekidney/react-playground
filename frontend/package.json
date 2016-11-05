@@ -1,0 +1,8 @@
+{
+  "name": "react-playground",
+  "version": "1.0.0",
+  "description": "just a sandbox for messing with React, Redux and the rest of the stack",
+  "main": "index.js",
+  "author": "Luke Kidney",
+  "license": "MIT"
+}
